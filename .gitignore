@@ -1,0 +1,10 @@
+# Salidas: los videos son de cada marca, no van al repo
+*.mp4
+*.m3u8
+*.part
+videos/
+shopify_videos.json
+
+__pycache__/
+*.pyc
+.venv/
